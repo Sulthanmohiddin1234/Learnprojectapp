@@ -16,8 +16,15 @@ state= {
         id:2,
         text: "About",
         url: '/about',
-    }, {
+    },
+    {
         id:3,
+        text: "Services",
+        url: '/services',
+    },
+    
+    {
+        id:4,
         text: "Contact",
         url: '/',
     }]
